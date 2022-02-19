@@ -1,0 +1,25 @@
+.wrapper {
+    width:  500px;
+    height: 700px;
+    border: 2px black solid;
+    padding: 5px;
+}
+.card_info {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px red solid ;
+    cursor: pointer;
+}
+.card_number {
+    width: 20px;
+    height: 20px;
+    background-color: brown;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    color: cornsilk;
+}
+.card {
+    background-color: rgb(156, 142, 142);
+}
+
