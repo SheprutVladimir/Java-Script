@@ -13,7 +13,7 @@
 .card_number {
     width: 20px;
     height: 20px;
-    background-color: brown;
+    background-color: rgb(212, 26, 26);
     border-radius: 50%;
     display: flex;
     justify-content: center;
